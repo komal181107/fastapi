@@ -1,0 +1,82 @@
+{
+  "P001": {
+    "name": "Aarav Sharma",
+    "age": 25,
+    "gender": "Male",
+    "height": 175,
+    "weight": 70,
+    "bmi": 22.86
+  },
+  "P002": {
+    "name": "Priya Singh",
+    "age": 22,
+    "gender": "Female",
+    "height": 160,
+    "weight": 55,
+    "bmi": 21.48
+  },
+  "P003": {
+    "name": "Rahul Verma",
+    "age": 30,
+    "gender": "Male",
+    "height": 180,
+    "weight": 85,
+    "bmi": 26.23
+  },
+  "P004": {
+    "name": "Ananya Gupta",
+    "age": 28,
+    "gender": "Female",
+    "height": 165,
+    "weight": 60,
+    "bmi": 22.04
+  },
+  "P005": {
+    "name": "Vikram Kumar",
+    "age": 35,
+    "gender": "Male",
+    "height": 170,
+    "weight": 78,
+    "bmi": 26.99
+  },
+  "P006": {
+    "name": "Sneha Patel",
+    "age": 24,
+    "gender": "Female",
+    "height": 155,
+    "weight": 48,
+    "bmi": 19.98
+  },
+  "P007": {
+    "name": "Arjun Mehta",
+    "age": 40,
+    "gender": "Male",
+    "height": 172,
+    "weight": 90,
+    "bmi": 30.42
+  },
+  "P008": {
+    "name": "Neha Kumari",
+    "age": 27,
+    "gender": "Female",
+    "height": 168,
+    "weight": 65,
+    "bmi": 23.03
+  },
+  "P009": {
+    "name": "Karan Malhotra",
+    "age": 32,
+    "gender": "Male",
+    "height": 178,
+    "weight": 82,
+    "bmi": 25.88
+  },
+  "P010": {
+    "name": "Pooja Yadav",
+    "age": 21,
+    "gender": "Female",
+    "height": 158,
+    "weight": 52,
+    "bmi": 20.83
+  }
+}
